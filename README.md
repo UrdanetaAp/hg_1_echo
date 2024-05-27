@@ -1,7 +1,7 @@
 # hg_1_echo
 # Nombre de usuario
 
-- Alfa [ ] Christia, Caracas
+- Alfa [ ] Christian, Caracas
 - Zulu [ ] Keishmer, Caracas
 - Denzel [ ] Carlos, Miranda
 - Tango [ ] Jonathan, Miranda
@@ -11,7 +11,7 @@
 - Golf [ ] Raykel, Caracas
 - Beta [ ] Edwuard, Caracas
 - Fooxtruckt [ ] Alejandro, 
-- Xray [ ] Jeffrey, Puerto la Cruz
+- Xray [ ] Geffrey, Puerto la Cruz
 - Delta [ ]
 - Papa [ ] Samuel, Caracas
 - Eco [X] Andrés, Maracaibo
